@@ -2,7 +2,7 @@
 ReactJS Basic Resume Generator which will generate customized Resume in few minutes on your requirements.
 Live resume editor.
 
-[Visit Now](https://resumegenx.netlify.app/) 🚀
+[Visit Now](https://resume-builder-one-ashy.vercel.app) 🚀
 
 ## 🖥️ Tech Stack
 
@@ -12,7 +12,7 @@ Live resume editor.
 Extras: React-To-Print
 
 **Deployed On:**
-
+Vercel
 
 
 <h2>📬 Contact</h2>
