@@ -25,7 +25,7 @@ const Navbar = () => {
                 <Spacer></Spacer>
                 <HStack spacing={10} mr={{ base: 0, sm: 8 }} as='nav' style={{ fontFamily: 'Poppins' }}>
                     <Text as='a' href='#' fontSize='lg'>Home</Text>
-                    <Button colorScheme={'purple'} fontWeight={'medium'}>Contact</Button>
+                    <Button colorScheme={'purple'}href='/footer' fontWeight={'medium'}>Contact</Button>
                 </HStack>
             </Flex>
 
