@@ -4,13 +4,6 @@ Live resume editor.
 
 [Visit Now](https://resume-builder-one-ashy.vercel.app) 🚀
 
-## 🖥️ Tech Stack
-
-![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![chakraui](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
-
-Extras: React-To-Print
-
 **Deployed On:**
 vercel 
 ![image](https://github.com/user-attachments/assets/b77cb246-2303-4dc2-a31d-0fe072589bea)
